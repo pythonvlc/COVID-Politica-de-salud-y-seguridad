@@ -3,7 +3,7 @@
 Política de Salud y Seguridad para Meetups:
 
 1. Distanciamiento Social:
-   - Se deberá garantizar un espacio adecuado entre los participantes para mantener una distancia mínima de al menos 1 metro.
+   - Se recomienda un espacio adecuado entre los participantes para mantener una distancia mínima de al menos 1 metro.
    - Se recomienda limitar el número de asistentes a fin de facilitar el distanciamiento social.
 
 2. Uso de Mascarillas:
